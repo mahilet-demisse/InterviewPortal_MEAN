@@ -1,0 +1,13 @@
+.container {
+    margin: 0 auto;
+    position: relative;
+    width: 900px;
+    padding: 0 40px;
+}
+
+.title{
+    margin-bottom: 24px;
+    padding: 16px 0;
+    min-width: 1376px;
+    background-color:blue;
+}
